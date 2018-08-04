@@ -1,3 +1,4 @@
-# Summarisation
+# Topic Modelling
 
-Just a super simple script to summarise stuff.
+Just a super simple script to show how to extract topics from text
+
