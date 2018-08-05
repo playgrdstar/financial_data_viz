@@ -1,4 +1,4 @@
-# Topic Modelling
+# Python Basics
 
-Just a super simple script to show how to extract topics from text
+Just a super simple walkthrough of Python
 
