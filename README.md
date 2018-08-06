@@ -1,4 +1,4 @@
-# Python Data Structures
+# Arrays through Numpy  
 
-Just a super simple walkthrough of Python's basic data types and how to find your way around
+Just a super simple walkthrough of Numpy
 
