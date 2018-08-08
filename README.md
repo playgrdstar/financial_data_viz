@@ -1,4 +1,4 @@
-# Arrays through Numpy  
+# Pandas for easy data munging
 
-Just a super simple walkthrough of Numpy
+Just a super simple walkthrough of Pandas
 
