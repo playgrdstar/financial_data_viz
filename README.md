@@ -1,4 +1,4 @@
-# Pandas for loading data and visualisation
+# Pandas for analysis of financial data and visualisation
 
-Just a super simple demonstration of how to load and visualise data with Pandas
+Computing some financial measures and visualising them in Pandas
 
